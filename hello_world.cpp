@@ -1,7 +1,7 @@
 #include <iostream>
 int main(){
-std::string name;// Создание переменной name
-std::cin>>name;//инициализация переменной
-std::cout<<"Hello world from "<<name;//Вывод сообщения в консоль
+std::string name;// create name
+std::cin>>name;//init name
+std::cout<<"Hello world from "<<name;//output
 return 0;
 }
